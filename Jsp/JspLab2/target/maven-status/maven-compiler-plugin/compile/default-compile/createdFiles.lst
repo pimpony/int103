@@ -1,0 +1,5 @@
+com\mycompany\jsplab2\JAXRSConfiguration.class
+com\mycompany\jsplab2\resources\JavaEE8Resource.class
+com\mycompany\jsplab2\servlet\CheckAnswerServlet.class
+com\mycompany\jsplab2\servlet\MulProbServlet.class
+com\mycompany\jsplab2\servlet\MulProbFormServlet.class
